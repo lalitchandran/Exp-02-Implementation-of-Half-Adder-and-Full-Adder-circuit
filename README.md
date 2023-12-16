@@ -48,7 +48,9 @@ Program to design a half adder and full adder circuit and verify its truth table
 Developed by: S LALIT CHANDRAN
 RegisterNumber: 23004048
 */
-RTL realization
+
+### RTL realization:
+
 HALF ADDER
 ![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/36cb1da7-1efc-4fd3-bed8-e45aa1e548e9)
 
@@ -57,6 +59,7 @@ FULL ADDER
 
 ### Output:
 ### TIMING DIAGRAM
+
 HALF ADDER
 ![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/00fd326c-3382-4e07-ad37-b9e71adbf111)
 
@@ -64,6 +67,7 @@ FULL ADDER
 ![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/bf6bd1b8-ce51-4e21-acb8-debe288e9e54)
 
 ### TRUTH TABLE 
+
 HALF ADDER
 ![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/39de11fa-5408-42c7-98b4-e4dd5fd22ccf)
 
