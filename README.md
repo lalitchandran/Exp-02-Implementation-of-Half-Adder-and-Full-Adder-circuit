@@ -36,19 +36,37 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+Half Adder
+![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/295d73f2-9c88-4a1a-b372-325580091d59)
+
+Full Adder
+![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/ea0d403b-f0fd-45c8-94a3-0d9e5865a7ad)
+
 /*
 Program to design a half adder and full adder circuit and verify its truth table in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by: S LALIT CHANDRAN
+RegisterNumber: 23004048
 */
-Logic symbol & Truthtable
 RTL realization
+HALF ADDER
+![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/36cb1da7-1efc-4fd3-bed8-e45aa1e548e9)
+
+FULL ADDER
+![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/bf2cb324-f63e-4500-b2ab-a64109c7bd9b)
 
 ### Output:
-### RTL
 ### TIMING DIAGRAM
+HALF ADDER
+![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/00fd326c-3382-4e07-ad37-b9e71adbf111)
 
+FULL ADDER
+![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/bf6bd1b8-ce51-4e21-acb8-debe288e9e54)
 
 ### TRUTH TABLE 
+HALF ADDER
+![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/39de11fa-5408-42c7-98b4-e4dd5fd22ccf)
+
+FULL ADDER
+![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/2132a958-f031-4a0c-9f02-239fae9e7b5a)
 
 ### Result:
