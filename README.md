@@ -69,6 +69,7 @@ FULL ADDER
 ### TRUTH TABLE 
 
 HALF ADDER
+
 ![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/39de11fa-5408-42c7-98b4-e4dd5fd22ccf)
 
 FULL ADDER
