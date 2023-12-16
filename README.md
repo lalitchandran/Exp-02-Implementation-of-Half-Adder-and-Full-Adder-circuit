@@ -36,6 +36,7 @@ Switch ON the main switch
 If the output is 1, then the led glows.
 ### 
 Program:
+
 Half Adder
 ![image](https://github.com/lalitchandran/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/137707725/295d73f2-9c88-4a1a-b372-325580091d59)
 
